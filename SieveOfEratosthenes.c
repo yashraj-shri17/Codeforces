@@ -24,3 +24,6 @@ int main()
     SieveOfEratosthenes(n);
     return 0;
 }
+
+
+// The time complexity of this code is O(n*log(logn))
