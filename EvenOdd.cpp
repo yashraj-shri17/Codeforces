@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
+    // #initiating integers
     int n, k;
     cin >> n >> k;
 
