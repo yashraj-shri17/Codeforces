@@ -14,6 +14,7 @@ int main() {
     }
 
     int result;
+    // #loop for even
     if (k <= odd_count) {
         result = 2 * k - 1;
     } else {
