@@ -6,6 +6,7 @@ int main() {
     cin >> n >> k;
 
     int odd_count;
+    // #loop for odd
     if (n % 2 == 1) {
         odd_count = (n + 1) / 2;
     } else {
