@@ -20,7 +20,7 @@ int main() {
     } else {
         result = 2 * (k - odd_count);
     }
-
+    // let's print it
     cout << result << endl;
 
     return 0;
