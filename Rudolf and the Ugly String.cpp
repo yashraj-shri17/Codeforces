@@ -6,6 +6,7 @@ using namespace std;
 int main() {
 	int t;
 	cin >> t;
+	// scanning test cases
 	while (t--) {
 		int n, m, k;
 		cin >> n >> m >> k;
