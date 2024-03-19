@@ -9,6 +9,7 @@ int main() {
 	// scanning test cases
 	while (t--) {
 		int n, m, k;
+		// scanning test_variables
 		cin >> n >> m >> k;
 		int ans = 0;
 		vector<int> v1(n);
