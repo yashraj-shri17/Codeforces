@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+	// scan variable
 	int t;
 	cin >> t;
 	while (t--) {
