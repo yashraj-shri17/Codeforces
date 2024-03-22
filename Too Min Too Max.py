@@ -1,6 +1,7 @@
 t = int(input())
 # SCANNING TEST CASES
 for i in range(t):
+    # SCANNING TEST_VARIABLE
     n = int(input())
     a = list(map(int, input().split()))
     a = sorted(a)
