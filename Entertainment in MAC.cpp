@@ -2,7 +2,7 @@
 
 using namespace std;
 using ll = long long;
-
+// FUNCTION FOR SOLUTION
 void solve_case() {
     int n, c;
     cin >> n >> c;
