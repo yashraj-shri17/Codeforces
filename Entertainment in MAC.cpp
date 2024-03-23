@@ -8,6 +8,7 @@ void solve_case() {
     int n, c;
     cin >> n >> c;
     vector<int> s(n);
+    // LOOP FOR SOLUTION
     for (int i = 0; i < n; i++) cin >> s[i];
     int odd = 0, even = 0;
     ll ans = 1ll * (c + 1) * (c + 2) / 2;
