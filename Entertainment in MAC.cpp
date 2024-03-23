@@ -4,6 +4,7 @@ using namespace std;
 using ll = long long;
 // FUNCTION FOR SOLUTION
 void solve_case() {
+    // SCANNING TEST CASES
     int n, c;
     cin >> n >> c;
     vector<int> s(n);
