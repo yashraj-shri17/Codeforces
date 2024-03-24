@@ -9,6 +9,7 @@ int main(){
         int a,b;
         cin>>a>>b;
         int arr[a];
+        // loop for test_cases
         for(int i = 0;i < a;i++){
             cin>>arr[i];
         }
