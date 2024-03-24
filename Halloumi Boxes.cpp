@@ -5,6 +5,7 @@ int main(){
     int t;
     cin>>t;
     while(t--){
+        // scan variables
         int a,b;
         cin>>a>>b;
         int arr[a];
