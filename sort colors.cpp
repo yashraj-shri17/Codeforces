@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// function for sort colors
  void sortColors(vector<int>& nums) {
         int zero=0;
         int one=0;
