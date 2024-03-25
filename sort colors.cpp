@@ -18,6 +18,7 @@ using namespace std;
         }
     }
 int main(){
+    //  vector creation
     vector<int>v;
     v.push_back(2);
     v.push_back(0);
