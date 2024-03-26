@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// function for sorting
 void sort0and1(vector<int> &v){
     int n=v.size();
     int noo=0;
