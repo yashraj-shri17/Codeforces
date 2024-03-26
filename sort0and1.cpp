@@ -30,6 +30,7 @@ void sort01m2(vector<int> &v){
         }
     }
 }
+// main function
 int main(){
     vector<int>v;
     v.push_back(0);
