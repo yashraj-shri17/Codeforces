@@ -9,6 +9,7 @@ void dutchFlafAlgo(vector<int>& nums) {
        //1) mid k baare mien socho
        //2) o to low-1 --> 0 hi+1 to end--> 2
        //lo to mid-1-->1
+    //    loop for calculation
        while(mid<=hi){
             if(nums[mid]==2){
                 int temp=nums[mid];
