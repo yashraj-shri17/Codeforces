@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// function for calculation
 void dutchFlafAlgo(vector<int>& nums) {
        //one pass solution
        int lo=0;
