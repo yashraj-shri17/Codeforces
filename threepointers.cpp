@@ -29,6 +29,7 @@ void dutchFlafAlgo(vector<int>& nums) {
  }
 int main(){
     vector<int>v;
+    // vector creation
     v.push_back(2);
     v.push_back(0);
     v.push_back(2);
