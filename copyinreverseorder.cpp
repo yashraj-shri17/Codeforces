@@ -20,8 +20,6 @@ int main(){
     }
     display(a);
     cout<<endl;
-    //     cout<<b[i]<<" ";
-    // }
     display(b);
 
 }
