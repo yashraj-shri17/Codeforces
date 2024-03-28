@@ -18,9 +18,6 @@ int main(){
     for(int i=n-1;i>=0;i--){
         b.push_back(a[i]);
     }
-    // for(int i=0;i<a.size();i++){
-    //     cout<<a[i]<<" ";
-    // }
     display(a);
     cout<<endl;
     // for(int i=0;i<b.size();i++){
