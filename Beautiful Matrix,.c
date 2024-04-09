@@ -6,7 +6,6 @@ int main() {
             scanf("%d", &arr[i][j]);
         }
     }
-
     int row, col;
     for (int i = 0; i < 5; i++) {
         for (int j = 0; j < 5; j++) {
