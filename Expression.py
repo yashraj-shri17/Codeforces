@@ -1,5 +1,5 @@
 a = int(input()) #taking input
-b = int(input())
+b = int(input()) #taking input
 c = int(input())
 p = (b+c)*a
 q = (a+b)*c
