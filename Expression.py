@@ -1,4 +1,4 @@
-a = int(input())
+a = int(input()) #taking input
 b = int(input())
 c = int(input())
 p = (b+c)*a
