@@ -1,6 +1,6 @@
 a = int(input()) #taking input
 b = int(input()) #taking input
-c = int(input())
+c = int(input()) #taking input
 p = (b+c)*a
 q = (a+b)*c
 r = a+b+c
