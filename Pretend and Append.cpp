@@ -7,6 +7,7 @@ int main() {
     for(int i = 0; i < t; i++) {
         int n;
         cin >> n;
+        // scanning binary string
         vector<char> v(n);
         for(int j = 0; j < n; j++) {
            cin >> v[j] ; 
