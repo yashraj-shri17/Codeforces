@@ -14,6 +14,7 @@ int main() {
         }
         int x = n-1;
         int count = 0;
+        // loop for comparing first and last , then second and second last , and so on.
         for(int p = 0 ; p < n; p++){
             if(v[p] != v[x]) { // Compare directly with '\n'
                 count += 2;
