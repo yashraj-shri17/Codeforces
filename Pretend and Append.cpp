@@ -24,6 +24,7 @@ int main() {
                 break;
             }
         }
+        // printing rest elements other than than the pattern of binary strings 
         if(n-count > 0){
         cout << n - count << endl;
         }
