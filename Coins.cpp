@@ -8,7 +8,7 @@ int main() {
     while (t--) {
         long long n, k;
         cin >> n >> k;  //scanning variable
-
+        //condition satisfying by if-else and for loop
         if (k % 2 == 0 && n % 2 != 0) {
             cout << "NO" << endl;
         } else if (k % 2 == 0 && n % 2 == 0) {
