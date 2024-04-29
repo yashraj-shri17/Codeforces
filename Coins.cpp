@@ -7,7 +7,7 @@ int main() {
 
     while (t--) {
         long long n, k;
-        cin >> n >> k;
+        cin >> n >> k;  //scanning variable
 
         if (k % 2 == 0 && n % 2 != 0) {
             cout << "NO" << endl;
