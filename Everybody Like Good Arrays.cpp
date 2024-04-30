@@ -14,6 +14,7 @@ int main(){
             v.push_back(x);
         }
         int count=0;
+        // main loop for answer
         for(int i=0;i<v.size()-1;i++){
             if((v[i]%2!=0 && v[i+1]%2!=0)||(v[i]%2==0 && v[i+1]%2==0) ){
                 v[i+1]*=v[i];
