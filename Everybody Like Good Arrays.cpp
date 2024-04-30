@@ -6,6 +6,7 @@ int main(){
     while(m--){
         int n;
         cin>>n;
+        //scanning vector size
         vector<int> v;
         for(int i=0;i<n;i++){
             int x;
