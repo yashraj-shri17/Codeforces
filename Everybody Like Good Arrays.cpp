@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int m;
+    // int m; scanning test cases
     cin>>m;
     while(m--){
         int n;
