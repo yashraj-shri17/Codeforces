@@ -13,6 +13,7 @@ int main() {
     for(int i = 0; i< n ; i++){
         cin>>v[i];
     }
+   // to find a number
    auto it = std::find(v.begin(), v.end(),m);
     if (it != v.end()) {
         std::cout <<"YES" << std::endl;
