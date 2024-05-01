@@ -3,6 +3,7 @@
 using namespace std;
 int main() {
     int t;
+    //scanning test cases
     cin>>t;
     for (int j =0;j<t;j++){
     int n,m;
