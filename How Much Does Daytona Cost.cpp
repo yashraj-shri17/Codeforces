@@ -7,6 +7,7 @@ int main() {
     cin>>t;
     for (int j =0;j<t;j++){
     int n,m;
+    //scanning vector sizes
     cin>>n>>m;
     vector<int>v(n);
     for(int i = 0; i< n ; i++){
