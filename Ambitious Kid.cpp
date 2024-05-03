@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-
+//INCLUDING LIBRARIES
 using namespace std;
 
 int main() {
