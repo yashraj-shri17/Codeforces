@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    int n;
+    int n;//SCANNING VARIABLE
     cin >> n;
 
     vector<int> v(n);
