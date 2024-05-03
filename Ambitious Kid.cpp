@@ -9,6 +9,7 @@ int main() {
     cin >> n;
 
     vector<int> v(n);
+    //LOOP FOR COMPUTATION
     for(int i = 0; i < n; i++) {
         cin >> v[i];
     }
